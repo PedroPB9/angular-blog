@@ -1,0 +1,12 @@
+.big__card__container {
+  border: solid white 2px;
+  width: 400px;
+  height: 600px;
+
+  display: flex; /* big card contents (embraces img, description etc
+                  will be displayed from the edge of a row or column
+                  to the end of it */
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
