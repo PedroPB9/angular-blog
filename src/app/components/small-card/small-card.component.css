@@ -1,0 +1,44 @@
+
+.small__card__container {
+  width: 625px;
+  margin-bottom: 15px;
+}
+
+.small__card__content__container {
+  display: flex;
+  flex-direction: row;
+  height: 115px;
+}
+
+.small__card__picture > img {
+  height: 100%;
+  width: 180px;
+  min-width: 180px;
+
+}
+.small__card__written {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.small__card__date > p {
+  font-size: x-small;
+  color: rgb(72, 72, 72);
+  margin-top: 4px;
+  margin-bottom: 5px;
+}
+.small__card__title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.small__card__title > p {
+  font-weight: bolder;
+  font-size: large;
+}
+
+.small__card__header__container {
+  margin-top: 10px;
+}
+
+

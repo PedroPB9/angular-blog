@@ -3,12 +3,11 @@
   margin-top: 15px;
   margin-bottom: 15px;
   font-size: 125px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex; /* the display of h1 is flexible */
   justify-content: center; /* content of h1 is justified at the center */
 }
 
 .menu__title__container > hr {
   margin-top: 15px;
-  margin-bottom: 7px;
+
 }
