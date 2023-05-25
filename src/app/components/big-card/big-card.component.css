@@ -13,12 +13,12 @@
 }
 
 .big__card__title > h1 {
-  margin-top: 15px;
-  font-size: 25px;
-  font-weight: bolder;
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
 }
 .big__card__description {
-  margin-top: 20px;
+  margin-top: 15px;
 
 }
 
