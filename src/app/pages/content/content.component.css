@@ -1,0 +1,35 @@
+.content__container {
+  width: 100%;
+  height: 100vh;
+  margin-top: 1rem;
+
+  display: flex;
+  flex-direction: column;
+
+  justify-content: flex-start;
+  align-items: center;
+}
+
+
+.cover__content > img {
+  border: 5px solid rgb(144, 144, 144);
+  border-radius: 5px;
+  width: 500px;
+  min-width: 500px;
+  height: 300px;
+
+}
+
+.description__content {
+  margin-top: 15px;
+}
+
+.description__content > p {
+  color: rgb(198, 197, 197);
+}
+
+.return__content{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
